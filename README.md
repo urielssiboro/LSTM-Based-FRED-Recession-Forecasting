@@ -1,6 +1,6 @@
 # Macroeconomic Recession Prediction Using LSTM
 
-This project builds a machine learning model to estimate the probability of a U.S. recession **12 months ahead** using macroeconomic indicators from the Federal Reserve Economic Data (FRED) database.
+This project builds a machine learning model to estimate the probability of a U.S. recession **12 months ahead** using macroeconomic indicators from the United States Federal Reserve Economic Data (FRED) database.
 
 The model applies a **Long Short-Term Memory (LSTM)** neural network to capture temporal patterns in macroeconomic data such as inflation, industrial production, unemployment, interest rates, and financial market expectations.
 
